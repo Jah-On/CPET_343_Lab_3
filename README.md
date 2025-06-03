@@ -1,4 +1,4 @@
-# CPET_343_Lab_1
+# CPET_343_Lab_3
 
 ## Usage
 
